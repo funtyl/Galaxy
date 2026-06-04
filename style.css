@@ -13,7 +13,7 @@ body {
 header {
     width: 100%;
     height: 100vh;
-    background: url('/uploads/2022/11/bg_mars.png');
+    background: url('src/bg_mars.webp');
     background-size: cover;
     background-position: center center; 
     display: flex;
@@ -134,17 +134,17 @@ nav {
 }
 
 .team1 .team-item-top {
-    background: url(/uploads/2022/11/astr1.png);
+    background: url('src/astr1.webp');
     background-size: cover;
 }
 
 .team2 .team-item-top {
-    background: url(/uploads/2022/11/astr2.png);
+    background: url('src/astr2.webp');
     background-size: cover;
 }
 
 .team3 .team-item-top {
-    background: url(/uploads/2022/11/astr3.png);
+    background: url('src/astr3.webp');
     background-size: cover;
 }
 
